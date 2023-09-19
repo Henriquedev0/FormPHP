@@ -1,0 +1,20 @@
+label {
+  margin: 10px;
+}
+
+#email {
+  margin: 10px;
+}
+#telefone {
+  margin: 10px;
+}
+#data_nascimento {
+  margin: 10px;
+}
+#nome {
+  margin: 10px;
+}
+body {
+  justify-content: center;
+  display: flex;
+}
